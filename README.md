@@ -59,7 +59,13 @@
 - https://blog.langchain.dev/building-chat-langchain-2/
 
 # Agent
-课程说明：【TODO】
+在2025.11.10——2025.11.14，谷歌联合Kaggle推出了他们的实践性课程—— AI Agent 强化课程。 课程介绍官网：https://www.kaggle.com/learn-guide/5-day-agents  
+下面是对整个课程的解读，可以让你更容易的上手Agent课程。
+每天的课程都包含以下三部分：
+1. 代码：课程视频中使用的配套代码。
+2. 课程视频：官方课程的录播，整体节奏为：课程总览|课程大纲（白皮书）｜Q&A(类似圆桌会议)｜codelabs（课程配套代码解读）｜随堂小测｜总结。
+3. 白皮书及其解读：相关技术的白皮书。
+
 ### 第1天——Agents介绍
 1. 代码：【TODO】
 2. 课程视频：https://www.bilibili.com/video/BV1UQm3BPEzX
