@@ -63,8 +63,8 @@
 # Agent
 
 本部分一共**三个部分**：
-- 1.AI_Agent 和 2.QW_Agent 是B站两个简单的 Agent Demo，比较通俗易懂，主要是入门了解的，快速过一下即可；
-- 3.Google_and_Kaggle 为谷歌联合Kaggle于2025.11.10——2025.11.14推出了他们的实践性课程 ——— AI Agent 强化课程。
+- **1.AI_Agent** 和 **2.QW_Agent** 是B站两个简单的 Agent Demo，比较通俗易懂，主要是入门了解的，快速过一下即可；
+- **3.Google_and_Kaggle** 为谷歌联合Kaggle于2025.11.10——2025.11.14推出了他们的实践性课程 ——— AI Agent 强化课程。
 
 
 
@@ -97,37 +97,37 @@
 3. 白皮书及其解读：相关技术的白皮书。
 
 ## 第1天——Agents介绍
-1. 代码：【TODO】
+1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/1-Day/codelabs
 2. 课程视频：https://www.bilibili.com/video/BV1UQm3BPEzX
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/Agent/Google_and_Kaggle/1-Day/whitepaper/Introduction%20to%20Agents.pdf
 - 播客：https://www.bilibili.com/video/BV12jmwBKEzx
 
 ## 第2天——Agent 工具以及与 （MCP） 的互作性
-1. 代码：【TODO】
+1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/2-Day/codelabs
 2. 课程视频：https://www.bilibili.com/video/BV1pHm3B9EN6/
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/Agent/Google_and_Kaggle/2-Day/whitepaper/Agent%20Tools%20%26%20Interoperability%20with%20Model%20Context%20Protocol%20(MCP).pdf
 - 播客：https://www.bilibili.com/video/BV127mwBvENJ/
 
 ## 第3天——上下文工程：会话和记忆
-1. 代码：【TODO】
-2. 课程视频：【TODO】
+1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/3-Day/codelabs
+2. 课程视频：https://www.bilibili.com/video/BV1E8mRBMEMR/
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/Agent/Google_and_Kaggle/3-Day/whitepaper/Context%20Engineering_%20Sessions%20%26%20Memory.pdf
 - 播客：https://www.bilibili.com/video/BV1iqmwBQEBn/
 
 ## 第4天——Agent 质量
-1. 代码：【TODO】
-2. 课程视频：【TODO】
+1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/4-Day/codelabs
+2. 课程视频：https://www.bilibili.com/video/BV1PBmYBpE8X/
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/Agent/Google_and_Kaggle/4-Day/whitepaper/Agent%20Quality.pdf
 - 播客：https://www.bilibili.com/video/BV1iqmwBQEtH/?
 
 ## 第5天——原型到生产
 
-1. 代码：【TODO】
-2. 课程视频：【TODO】
+1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/5-Day/codelabs
+2. 课程视频：https://www.bilibili.com/video/BV1ArmYBnEJW/
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/Agent/Google_and_Kaggle/5-Day/whitepaper/Prototype%20to%20Production.pdf
 - 解读：https://www.bilibili.com/video/BV1qimwBpEqd/
