@@ -64,7 +64,7 @@
 1. 代码：【TODO】
 2. 课程视频：https://www.bilibili.com/video/BV1UQm3BPEzX
 3. 白皮书及其解读：
-- 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/Agent/Google_and_Kaggle/5-Day/whitepaper/Prototype%20to%20Production.pdf
+- 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/Agent/Google_and_Kaggle/1-Day/whitepaper/Introduction%20to%20Agents.pdf
 - 播客：https://www.bilibili.com/video/BV12jmwBKEzx
 
 ### 第2天——Agent 工具以及与 （MCP） 的互作性
