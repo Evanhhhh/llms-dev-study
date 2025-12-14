@@ -17,7 +17,7 @@ def llm(prompt):  # 调用api_server
         token = client.get_token()
 
         resp = broadscope_bailian.Completions(token=token).call(app_id=app_id, prompt=prompt)
-        print("resp:",resp)
+        print("resp:", resp)
         # content = resp.get("Data", {}).get("Choices", [])[0].get("Message", {}).get("Content")
         content = resp.get("Data", {}).get("Text")
         return content

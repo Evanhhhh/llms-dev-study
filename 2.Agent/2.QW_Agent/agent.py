@@ -2,6 +2,7 @@ import os
 from http import HTTPStatus
 from dashscope import Application
 
+
 # https://help.aliyun.com/zh/model-studio/developer-reference/call-alibaba-cloud-model-studio-through-sdk?spm=a2c4g.11186623.0.0.4c6a34462ois7g
 def call_agent_app():
     response = Application.call(app_id=os.environ.get("APP_ID"),

@@ -1,6 +1,7 @@
 import os
 import broadscope_bailian
 
+
 # https://help.aliyun.com/zh/model-studio/videos/python-sdk-previous-version?spm=5176.2020520104.0.0.276c3f1bmKGOuf#fc7d3f0074p0s
 def test_completions():
     access_key_id = ""
