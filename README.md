@@ -1,8 +1,26 @@
-# 大模型应用开发学习路线（速通版）
+<p align="center">
+  <img width="800" alt="LLM-0"
+       src="https://github.com/user-attachments/assets/0cc855dc-c711-4e44-9e25-5c36df039306"
+       style="max-width: 100%;" />
+
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=900&size=28&duration=3000&pause=800&color=000000&background=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=🎉速通RAG、Agent、入门项目、面试八股｜上岸记录🎉"/>
+  <br/>
+
+  <a href="https://github.com/limouren2000/llms-dev-study/stargazers">
+    <img src="https://img.shields.io/github/stars/limouren2000/llms-dev-study?style=for-the-badge&logo=github&color=brightgreen" />
+  </a>
+  <a href="https://github.com/limouren2000/llms-dev-study/network/members">
+    <img src="https://img.shields.io/github/forks/limouren2000/llms-dev-study?style=for-the-badge&logo=github&color=blue" />
+  </a>
+
+</p>
+
+
 
 本仓库为本人学习🔥大模型应用开发🔥时候整理和学习的一些资料，此学习路线是 **最快速的路线**，都是干货，没有额外的扩展，💰上岸搞钱为第一要务💰。
 
-欢迎阅读，如果对你有用，麻烦点一下 🌟 star，谢谢！
+欢迎阅读，如果对你有用，麻烦点一下 🌟 star，谢谢 ！
 
 # ✅ 导读
 
