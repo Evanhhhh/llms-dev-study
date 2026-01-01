@@ -4,7 +4,7 @@
        style="max-width: 100%;" />
 
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=900&size=28&duration=3000&pause=800&color=000000&background=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=🎉速通RAG、Agent、入门项目、面试八股｜上岸记录🎉"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=900&size=28&duration=3000&pause=800&color=000000&background=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=🚀速通RAG、Agent、入门项目、面试八股｜上岸记录🎉"/>
   <br/>
 
   <a href="https://github.com/limouren2000/llms-dev-study/stargazers">
