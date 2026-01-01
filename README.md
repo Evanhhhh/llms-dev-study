@@ -158,3 +158,12 @@
 - 详细介绍大模型（LLMs）RAG检索增强生成学习/面试过程中可能遇到的知识点，全文4w+字，按照处理流程整理：[大模型RAG知识笔记](https://mp.weixin.qq.com/s/zmUTGAMoljXSmnoo_cBQig)
 ## Agent
 - 详细介绍大模型（LLMs）智能体Agent学习/面试过程中可能遇到的知识点，全文1w+字，按照模块整理：[大模型Agent知识笔记](https://mp.weixin.qq.com/s/TSioLS_RhrX57YEnY3mkag)
+
+
+
+<p align="center">
+  <!-- Star History 增长曲线 -->
+  <img width="800" alt="Star History Chart"
+       src="https://api.star-history.com/svg?repos=limouren2000/llms-dev-study&type=Date"
+       style="max-width: 100%;" />
+</p>
