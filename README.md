@@ -67,7 +67,7 @@
   - PPT：官方视频对应的PPT
 - 代码原址：https://github.com/langchain-ai/rag-from-scratch/tree/main  
 - 运行平台：Kaggle运行，Kaggle入门参考：[白嫖免费算力，量小但管够——Kaggle](https://mp.weixin.qq.com/s/SK5VXzx2zijzjc8OYJICKA)；
-## llms-4
+## llms-4（RAG入门项目）
 ### 代码：
 - 🌹代码地址（✅本人更改过后的代码，可以直接运行✅）：https://github.com/limouren2000/chat-langchain-study/
 - 代码原址（运行有问题，需要自己更改）：https://github.com/langchain-ai/chat-langchain
@@ -114,35 +114,35 @@
 2. 课程视频：官方课程的录播，整体节奏为：课程总览|课程大纲（白皮书）｜Q&A(类似圆桌会议)｜codelabs（课程配套代码解读）｜随堂小测｜总结。
 3. 白皮书及其解读：相关技术的白皮书。
 
-## 第1天——Agents介绍
+### 第1天——Agents介绍
 1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/1-Day/codelabs
 2. 课程视频：https://www.bilibili.com/video/BV1UQm3BPEzX
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/2.Agent/3.Google_and_Kaggle/1-Day/whitepaper/Introduction%20to%20Agents.pdf
 - 播客：https://www.bilibili.com/video/BV12jmwBKEzx
 
-## 第2天——Agent 工具以及与 （MCP） 的互作性
+### 第2天——Agent 工具以及与 （MCP） 的互作性
 1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/2-Day/codelabs
 2. 课程视频：https://www.bilibili.com/video/BV1pHm3B9EN6/
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/2.Agent/3.Google_and_Kaggle/2-Day/whitepaper/Agent%20Tools%20%26%20Interoperability%20with%20Model%20Context%20Protocol%20(MCP).pdf
 - 播客：https://www.bilibili.com/video/BV127mwBvENJ/
 
-## 第3天——上下文工程：会话和记忆
+### 第3天——上下文工程：会话和记忆
 1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/3-Day/codelabs
 2. 课程视频：https://www.bilibili.com/video/BV1E8mRBMEMR/
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/2.Agent/3.Google_and_Kaggle/3-Day/whitepaper/Context%20Engineering_%20Sessions%20%26%20Memory.pdf
 - 播客：https://www.bilibili.com/video/BV1iqmwBQEBn/
 
-## 第4天——Agent 质量
+### 第4天——Agent 质量
 1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/4-Day/codelabs
 2. 课程视频：https://www.bilibili.com/video/BV1PBmYBpE8X/
 3. 白皮书及其解读：
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/2.Agent/3.Google_and_Kaggle/4-Day/whitepaper/Agent%20Quality.pdf
 - 播客：https://www.bilibili.com/video/BV1iqmwBQEtH/?
 
-## 第5天——原型到生产
+### 第5天——原型到生产
 
 1. 代码：https://github.com/limouren2000/llms-dev-study/tree/main/2.Agent/3.Google_and_Kaggle/5-Day/codelabs
 2. 课程视频：https://www.bilibili.com/video/BV1ArmYBnEJW/
@@ -150,6 +150,8 @@
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/2.Agent/3.Google_and_Kaggle/5-Day/whitepaper/Prototype%20to%20Production.pdf
 - 解读：https://www.bilibili.com/video/BV1qimwBpEqd/
 
+## 3.Agent入门项目
+ - 这里是Agent的入门项目，使用 MCP 快速搭建一个 Agent：https://github.com/limouren2000/easy-mcp
 
 # ✅ Interview
 本部分包含两部分面试八股，是本人在找工作期间收集和整理的大模型应用开发八股文，本人实测，可以通过这些找到了一些大厂**高级AI研发工程师**相关岗位。
