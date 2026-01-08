@@ -13,14 +13,15 @@
   <a href="https://github.com/limouren2000/llms-dev-study/network/members">
     <img src="https://img.shields.io/github/forks/limouren2000/llms-dev-study?style=for-the-badge&logo=github&color=blue" />
   </a>
-
+  <!-- <a href="https://xhslink.com/m/AteKDs8OWml">
+    <img src="https://img.shields.io/badge/xhs-小红书-ff2442?style=for-the-badge&logo=xiaohongshu" />
+  </a> -->
 </p>
 
 
+本仓库为本人学习🔥大模型应用开发🔥时整理的核心学习资料，此学习路线主打 **“最快速上岸”**，全是干货无冗余扩展，💰以高效求职搞钱为第一要务💰。
 
-本仓库为本人学习🔥大模型应用开发🔥时候整理和学习的一些资料，此学习路线是 **最快速的路线**，都是干货，没有额外的扩展，💰上岸搞钱为第一要务💰。
-
-欢迎阅读，如果对你有用，麻烦点一下 🌟 star，谢谢 ！
+欢迎阅读仓库内容，如果对你有用，麻烦点一下 🌟 star，谢谢！
 
 # ✅ 导读
 
@@ -78,7 +79,7 @@
 - https://github.com/webup/agi-talks/blob/master/301-langchain-chatdoc/src/slides.md
 - https://blog.langchain.dev/building-chat-langchain-2/
 
-# Agent
+# ✅ Agent
 
 本部分一共**三个部分**：
 - **1.AI_Agent** 和 **2.QW_Agent** 是B站两个简单的 Agent Demo，比较通俗易懂，主要是入门了解的，快速过一下即可；
@@ -161,7 +162,7 @@
 ## Agent
 - 详细介绍大模型（LLMs）智能体Agent学习/面试过程中可能遇到的知识点，全文1w+字，按照模块整理：[大模型Agent知识笔记](https://mp.weixin.qq.com/s/TSioLS_RhrX57YEnY3mkag)
 
-
+# ✅ 增长曲线
 
 <p align="center">
   <!-- Star History 增长曲线 -->
@@ -169,3 +170,19 @@
        src="https://api.star-history.com/svg?repos=limouren2000/llms-dev-study&type=Date"
        style="max-width: 100%;" />
 </p>
+
+# ✅ 说明
+
+本仓库的内容**足够支撑基础学习和面试准备**，但收到不少朋友反馈：希望获得**更细致的学习规划**、**项目实操指导**，或是遇到问题能及时得到**针对性答疑**。
+
+由于个人精力有限，一对一答疑、定制化学习路线梳理、项目细节拆解等服务需要占用大量私人时间，因此在小红书上架了更完整的配套服务（包含详细学习路线、完善面试八股、项目包装攻略、专属答疑通道）。
+
+如果需要更深度的指导，帮你少走弯路、高效突破学习瓶颈，可点击下方徽章了解详情，我会尽力为大家解决实际问题～
+
+<p align="center">
+  <a href="https://xhslink.com/m/AteKDs8OWml" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/xhs-小红书配套服务-ff2442?style=for-the-badge&logo=xiaohongshu" />
+  </a>
+</p>
+
+
