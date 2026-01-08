@@ -180,7 +180,7 @@
 如果需要更深度的指导，帮你少走弯路、高效突破学习瓶颈，可点击下方徽章了解详情，我会尽力为大家解决实际问题～
 
 <p align="center">
-  <a href="https://xhslink.com/m/AteKDs8OWml" style="text-decoration: none;">
+  <a href="https://xhslink.com/m/AnSrQOLt5y1" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/xhs-小红书配套服务-ff2442?style=for-the-badge&logo=xiaohongshu" />
   </a>
 </p>
