@@ -151,7 +151,7 @@
 - 白皮书：https://github.com/limouren2000/llms-dev-study/blob/main/2.Agent/3.Google_and_Kaggle/5-Day/whitepaper/Prototype%20to%20Production.pdf
 - 解读：https://www.bilibili.com/video/BV1qimwBpEqd/
 
-## 3.Agent入门项目
+## 4.Agent入门项目
  - 这里是Agent的入门项目，使用 MCP 快速搭建一个 Agent：https://github.com/limouren2000/easy-mcp
 
 # ✅ Interview
